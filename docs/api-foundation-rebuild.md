@@ -60,7 +60,6 @@
 
 ## 6. マイグレーションとテストデータ（`src/database/`）
 
-- **Migration**：テーブルごとに分かれていた旧 Migration 12本を削除し、全テーブルを作成する初期 Migration 1本に集約
 - **Seed**：番号順に実行される Seed 15本に再構成
 - **Factory**：テストデータ生成用 Factory を 9本新規追加・5本変更し、旧来の汎用 Factory を廃止
 
