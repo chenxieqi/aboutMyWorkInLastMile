@@ -15,3 +15,4 @@
 | テーマ | 概要 |
 | --- | --- |
 | [NestJS / TypeORM / AWS SDK 大規模アップグレード](docs/nestjs-major-upgrade.md) | NestJS v7→v10、TypeORM 0.2→0.3、AWS SDK v2→v3 を一括で実施 |
+| [新 API の基盤構築（旧システムからのリニューアル）](docs/api-foundation-rebuild.md) | 別プロジェクト（2021年〜）。共通ベースクラス・ページネーション・データモデル・開発環境を整備。機能 PR 約125件・約3万行 |
